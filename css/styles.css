@@ -45,10 +45,16 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .logo_top {
   color: #2e2f42;
+}
+
+.header-nav_list {
+  display: flex;
+  gap: 40px;
 }
 
 .navigation_link {
