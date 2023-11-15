@@ -168,6 +168,9 @@ img {
 .benefits_list {
   display: flex;
   gap: 24px;
+}
+
+.benefits_list_li {
   width: calc((100% - 72px) / 4);
 }
 
