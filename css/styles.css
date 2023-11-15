@@ -211,8 +211,9 @@ img {
   color: #2e2f42;
 }
 
+/* -------------------- DEVELOPERS SECTION -------------------- */
+
 .peoples {
-  width: calc((100% - 72px) / 4);
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
@@ -220,6 +221,14 @@ img {
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
   margin-right: 24px;
+}
+
+.horizontal-list-developers {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  list-style: none;
+  gap: 24px;
 }
 
 .about_jobs {
@@ -266,6 +275,7 @@ img {
 
 .portfolio {
   padding: 120px 0;
+  display: flex;
 }
 
 .portfolio-li {
@@ -277,7 +287,10 @@ img {
 }
 
 .portfolio_info {
-  margin-bottom: 72px;
+  text-align: center;
+  margin: 0 0 72px 0;
+  width: 218px;
+  height: 40px;
 }
 
 .horizontal-portfolio-list {
