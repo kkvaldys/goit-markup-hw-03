@@ -271,7 +271,7 @@ img {
   row-gap: 48px;
 }
 
-.portfolio-li {
+.portfolio-li:first-child {
   width: calc((100% - 48px) / 3);
 }
 
