@@ -318,6 +318,10 @@ img {
   margin-bottom: 16px;
 }
 
+.alogo-bot {
+  display: inline-block;
+}
+
 .logo_bot {
   color: #f4f4fd;
 }
