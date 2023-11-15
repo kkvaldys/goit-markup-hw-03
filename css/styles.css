@@ -2,6 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
+  align-items: center;
 }
 
 a {
@@ -213,6 +214,10 @@ img {
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
   margin-right: 24px;
+}
+
+.mark_guerrero {
+  padding: 32px 0;
 }
 
 .nameof {
