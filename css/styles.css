@@ -140,6 +140,10 @@ img {
   background-color: #404bbf;
 }
 
+.benefits {
+  padding: 120px 0;
+}
+
 .name {
   font-weight: 500;
   font-size: 20px;
