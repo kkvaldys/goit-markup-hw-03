@@ -149,8 +149,14 @@ img {
   background-color: #404bbf;
 }
 
+/* -------------------- BENEFITS SECTION -------------------- */
+
 .benefits {
   padding: 120px 0;
+}
+
+.first_child_benefits_li {
+  width: calc((100% - 72px) / 4);
 }
 
 .visually-hidden {
