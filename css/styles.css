@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-  align-items: center;
 }
 
 a {
@@ -173,9 +172,9 @@ img {
   gap: 24px;
 }
 
-/* .benefits_list:first-child {
+.benefits_list:first-child {
   width: calc((100% - 72px) / 4);
-} */
+}
 
 .benefits_list_li {
   width: 264px;
