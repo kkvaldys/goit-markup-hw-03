@@ -267,7 +267,7 @@ img {
 .horizontal-portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  column-gap: 48px;
+  column-gap: 24px;
   row-gap: 48px;
 }
 
@@ -289,6 +289,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .tip {
