@@ -256,6 +256,8 @@ img {
   gap: 24px;
 }
 
+/* -------------------- PORTFOLIO SECTION -------------------- */
+
 .portfolio {
   padding: 120px 0;
 }
@@ -307,6 +309,8 @@ img {
   background-color: #2e2f42;
   padding: 100px 0;
 }
+
+/* -------------------- FOOTER SECTION -------------------- */
 
 .logotype_bot {
   font-family: "Raleway", sans-serif;
