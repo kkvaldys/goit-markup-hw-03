@@ -240,7 +240,7 @@ img {
   margin-bottom: 72px;
 }
 
-.team_list {
+.horizontal-list {
   display: flex;
   justify-content: space-between;
   padding: 0;
