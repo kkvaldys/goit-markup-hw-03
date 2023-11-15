@@ -155,10 +155,6 @@ img {
   padding: 120px 0;
 }
 
-.first_child_benefits_li {
-  width: calc((100% - 72px) / 4);
-}
-
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -177,8 +173,13 @@ img {
   gap: 24px;
 }
 
-.benefits_list_li {
+/* .benefits_list:first-child {
   width: calc((100% - 72px) / 4);
+} */
+
+.benefits_list_li {
+  width: 264px;
+  height: 104px;
 }
 
 .name {
