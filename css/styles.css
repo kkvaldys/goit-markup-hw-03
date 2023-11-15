@@ -192,6 +192,7 @@ img {
 
 .team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .headline_sec2 {
@@ -222,13 +223,19 @@ img {
   color: #434455;
 }
 
-.portfolio_info {
+.about_team {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
+}
+
+.people_list {
+  display: flex;
+  gap: 24px;
 }
 
 .hil {
