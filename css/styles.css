@@ -171,9 +171,8 @@ img {
   gap: 24px;
 }
 
-.benefits_list_li {
+.benefits_list_li:first-child {
   width: calc((100% - 72px) / 4);
-}
 
 .name {
   font-weight: 500;
