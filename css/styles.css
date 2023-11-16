@@ -299,6 +299,10 @@ img {
   margin-bottom: 8px;
 }
 
+.team-list-position{
+  padding: 32px 0;
+}
+
 .team-list-item-text {
   color: #434455;
   text-align: center;
@@ -310,10 +314,6 @@ img {
   padding-bottom: 32px;
   /* padding-top: 8px; */
 
-  .team-name-position {
-    padding: 32px 0;
-  }
-}
 
 /* ----------- PORTFOLIO SECTION ---------- */
 .portfolio-section {
