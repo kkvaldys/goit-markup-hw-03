@@ -53,7 +53,7 @@ img {
   padding: 0 15px;
 }
 
-/* ------------------- HEADER  ------------------ */
+/* -------------------- HEADER -------------------- */
 .page-header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -75,7 +75,7 @@ img {
   align-items: center;
 }
 
-/* ----- LOGO STYLE ---- */
+/* -------------------- LOGO STYLE -------------------- */
 .logo-web {
   color: var(--IRIS, #4d5ae5);
   font-family: Raleway;
@@ -92,7 +92,7 @@ img {
   color: #2e2f42;
 }
 
-/*----- NAVIGATION ----- */
+/*-------------------- NAVIGATION -------------------- */
 .navigation {
   margin-top: 24px;
 }
@@ -121,7 +121,7 @@ img {
   color: #404bbf;
 }
 
-/* ----- ADDRESS ------ */
+/* -------------------- ADDRESS -------------------- */
 .address {
   font-style: normal;
 }
@@ -148,7 +148,7 @@ img {
   color: #404bbf;
 }
 
-/* ----------- HERO SECTION ---------- */
+/* -------------------- HERO SECTION -------------------- */
 .hero-section {
   background: #2e2f42;
   padding-top: 188px;
@@ -178,8 +178,6 @@ img {
   margin-top: 48px;
   margin-left: 480px;
   margin-right: 480px;
-  /* align-items: center; */
-  /* gap: 10px; */
   border-radius: 4px;
   background-color: #4d5ae5;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
@@ -246,7 +244,7 @@ img {
   gap: 8px;
 }
 
-/* ------------- TEAM SECTION ------------ */
+/* ------------- DEVELOPERS SECTION ------------ */
 .team-section {
   background-color: #f4f4fd;
   padding: 120px 0;
@@ -288,10 +286,6 @@ img {
 .team-list-item:last-child {
   margin-right: 0;
 }
-
-/* .team-name-position {
-  padding: 32px;
-} */
 
 .team-list-item-name {
   color: #2e2f42;
@@ -405,11 +399,6 @@ img {
   display: inline-block;
   margin-bottom: 16px;
 }
-
-/* .footer-logo-web {
-  display: inline-block;
-  margin-bottom: 16px;
-} */
 
 .footer-text {
   color: #f4f4fd;
