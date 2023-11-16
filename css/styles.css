@@ -287,6 +287,10 @@ img {
   margin-right: 0;
 }
 
+.team-name-position {
+  padding: 32px 0;
+}
+
 .team-list-item-name {
   color: #2e2f42;
   font-family: Roboto, sans-serif;
@@ -299,10 +303,6 @@ img {
   margin-bottom: 8px;
 }
 
-.team-name-position{
-  padding: 32px 0;
-}
-
 .team-list-item-text {
   color: #434455;
   text-align: center;
@@ -313,7 +313,7 @@ img {
   letter-spacing: 0.02em;
   padding-bottom: 32px;
   /* padding-top: 8px; */
-
+}
 
 /* ----------- PORTFOLIO SECTION ---------- */
 .portfolio-section {
